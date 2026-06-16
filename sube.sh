@@ -1,7 +1,6 @@
 #!/usr/bin/env bash
 # SUBE - Subdomain Enumerator
 # Author: NeiveZ | github.com/NeiveZ/SUBE
-# Priority chain: AXFR → crt.sh → Brute Force
 
 set -euo pipefail
 
