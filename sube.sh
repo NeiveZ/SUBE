@@ -2,7 +2,6 @@
 # SUBE - Subdomain Enumerator
 # Author: NeiveZ | github.com/NeiveZ/SUBE
 
-
 set -euo pipefail
 
 # ── Colors ────────────────────────────────────────────────────────
