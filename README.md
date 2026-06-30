@@ -1,4 +1,4 @@
-# SUBE
+# SUBE 
 
 > Subdomain Enumerator — passive-first enumeration with intelligent fallback to brute force.
 
